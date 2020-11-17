@@ -1,1 +1,5 @@
 # Trihydrogen-Cation
+
+## Project Description
+
+The aurora of Giant Planets are produced comes from indirect measurements of the bright auroral emissions observed in the poles of these planets and in-situ measurements of the surrounding space environment – these have suggested the aurora are driven by currents that result from the relative flow of molecules of ions and neutrals in Jupiter’s upper atmosphere. This research project aims to investigate the region in Jupiter’s upper atmosphere where this interaction occurs. The project will involve the reduction and analysis of infrared emissions from Jupiter’s upper atmosphere, using high-resolution spectroscopy from telescope instrumentation, including our existing library of observations taken by the NIRSpec instrument on the Keck telescope. These observations will allow us to calculate ion and neutral wind velocities, as well as the thermospheric temperature and ion density in the upper atmosphere of Jupiter. This will provide a detailed comparison between the ionosphere and neutral atmosphere, providing a measure of the atmospheric coupling that drives Jupiter’s aurora.
